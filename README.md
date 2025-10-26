@@ -1,7 +1,7 @@
 <html>
 <head>
  <title>Хорошие и плохие игры в Roblox</title>
- </head>
+  </head>
  <body style="font-family:sans-serif">
  <header style="background-color:red; color:black">
  <img src="https://i.ytimg.com/vi/hgbhWkhIuE4/maxresdefault.jpg" height="50px">
@@ -145,10 +145,11 @@ CLimb And Jump Tower
      <br>
      <br>
      <br>
+     </main>
     <footer style="background-color:red; color:black">
             <a href="#start" style="color:black;font-size:20px">В начало страницы</a>
             <p style="font-size:15px">Интересные игры в Roblox если скучно</p>
             <p>Каких ютуберов по Roblox интересно смотреть</p>
         </footer>
-    </body>
+            </body>
 </html>
