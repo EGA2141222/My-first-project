@@ -5,7 +5,7 @@
  <body style="font-family:sans-serif">
  <header style="background-color:red; color:black">
  <img src="https://i.ytimg.com/vi/hgbhWkhIuE4/maxresdefault.jpg" height="50px">
- <height="50px" id="start">
+ <height="50px" id="#start">
  <a href="#games" style="color:black; font-size:"20px";">Какие хорошие и плохие игры есть в Roblox?</a>
  <a href="#price" style="color:black; font-size:"20px";">Какие хорошие и плохие популярные игры в Roblox?</a>
   <a>(Моё мнение)</a>
