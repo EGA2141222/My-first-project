@@ -6,13 +6,13 @@
  <header style="background-color:red; color:black">
  <img src="https://i.ytimg.com/vi/hgbhWkhIuE4/maxresdefault.jpg" height="50px">
  <height="50px" id="start">
- <a href="#games" style="color:black; font-size:20px;">Какие хорошие и плохие игры есть в Roblox?</a>
- <a href="#price" style="color:black; font-size:20px;">Какие хорошие и плохие популярные игры в Roblox?</a>
+ <a href="#games" style="color:black; font-size:"20px";">Какие хорошие и плохие игры есть в Roblox?</a>
+ <a href="#price" style="color:black; font-size:"20px";">Какие хорошие и плохие популярные игры в Roblox?</a>
   <a>(Моё мнение)</a>
 </header>
  <main>
-<h1 style="text-align:center;font-size:50px;">Roblox</h1>
-    <h2 style="text-align:center;font-size:40px;">Игры в Roblox</h2>
+<h1 style="text-align:center;font-size:"50px";">Roblox</h1>
+    <h2 style="text-align:center;font-size:"40px";">Игры в Roblox</h2>
 <img src="https://avatars.mds.yandex.net/i?id=99e811504b827e68762532e51f2520a0c085723a-5849895-images-thumbs&n=13" width="1200px">
 <h2 id="games">Хорошие игры</h2>
     <p>
